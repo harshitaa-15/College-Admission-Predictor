@@ -10,6 +10,7 @@
 
 ## Project Overview :
 
+
 - The College Admission Prediction System is a Machine Learning–based web application that predicts the probability of getting admission into a college based on student academic and personal details.
 - This project helps students estimate their admission chances using important parameters such as entrance score, board percentage, stream preference, and extracurricular performance.
 - The application is built using Machine Learning (Linear Regression) and deployed using Streamlit for an interactive user interface.
