@@ -62,11 +62,18 @@ The prediction is based on the following inputs:
 │
 ├── app.py
 ├── admission_prediction_model (1).pkl
+├── college-admission-prediction.ipynb  
 ├── requirements.txt
 ├── admission.jpg
 ├── college.webp
 └── README.md
 ```
+
+## Dataset:
+
+The dataset used in this project is the College Admission Dataset (India) available on Kaggle.
+
+**Dataset Link**: https://www.kaggle.com/datasets/kundanbedmutha/college-admission-dataset-india
 
 ## How It Works :
 
