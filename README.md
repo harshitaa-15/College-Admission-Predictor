@@ -1,5 +1,6 @@
 <h1 align="center">🎓 College Admission Predictor</h1>
 
+
 <p align="center"
   Predict your chances of getting into your dream college using Machine Learning.
 </p>
