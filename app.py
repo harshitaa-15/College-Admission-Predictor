@@ -12,7 +12,6 @@ st.set_page_config(
 #===================================================================================================================
 
 st.image("college.webp")
-
 st.title("🎓College Adimission Prediction")
 st.write("Hey!🖐 Here you can get the probability of your admission in the college, by giving a small infomation.")
 st.markdown("---")
