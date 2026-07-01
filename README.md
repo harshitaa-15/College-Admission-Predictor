@@ -5,6 +5,7 @@
 </p>
 
 <p align="center">
+  
   <img src="https://medicaldialogues.in/h-upload/2024/08/28/750x450_249902-admission.webp" width="1000"/>
 </p>
 
