@@ -3,9 +3,6 @@
 
 
 
-
-
-
 <p align="center"
   Predict your chances of getting into your dream college using Machine Learning.
 </p>
