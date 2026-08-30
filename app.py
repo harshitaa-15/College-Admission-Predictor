@@ -2,8 +2,6 @@ import streamlit as st
 import joblib
 import numpy as np
 
-gsd
-
 #==================================================================================================================
 
 st.set_page_config(
